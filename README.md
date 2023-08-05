@@ -1,1 +1,1 @@
-# nvim
+# Preetham's Neovim Configuration
