@@ -7,4 +7,4 @@ require("preetham.core.keymaps")
 
 -- Plugins
 require("preetham.plugins.comment")
-require("preetham.plugins.nvim-tree")_
+require("preetham.plugins.nvim-tree")
