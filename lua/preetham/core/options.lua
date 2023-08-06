@@ -18,3 +18,6 @@ opt.smartcase = true -- if you include mixed case in your search, assumes you wa
 
 -- cursor line
 opt.cursorline = true -- highlight the current cursor line
+
+-- appearance
+opt.signcolumn = "yes" -- show sign column so that text doesn't shift
