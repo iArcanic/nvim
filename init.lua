@@ -8,3 +8,4 @@ require("preetham.core.keymaps")
 -- Plugins
 require("preetham.plugins.comment")
 require("preetham.plugins.nvim-tree")
+require("preetham.plugins.lualine")
