@@ -32,6 +32,8 @@ return packer.startup(function(use)
   -- packer can manage itself
   use("wbthomason/packer.nvim")
 
+  use("christoomey/vim-tmux-navigator") -- tmux & split window navigation
+
   if packer_bootstrap then
     require("packer").sync()
   end
