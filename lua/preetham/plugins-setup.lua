@@ -36,6 +36,9 @@ return packer.startup(function(use)
 
   use("szw/vim-maximizer") -- maximizes and restores current window
 
+  -- essential plugins
+  use("tpope/vim-surround") -- add, delete, change surroundings (it's awesome)
+
   if packer_bootstrap then
     require("packer").sync()
   end
