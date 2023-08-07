@@ -93,7 +93,7 @@ _Note: For your own customisation needs, refer to the official repos for the plu
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) – Manages and installs LSPs and formatters and linters.
 
 ### LSP configuration
-- []() – Allows for easy configuration of LSP servers.
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) – Allows for easy configuration of LSP servers.
 
 ### lspconfig to Mason
 - [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) – Provides a bridge between lspconfig and Mason plugins.
