@@ -11,3 +11,8 @@ require("preetham.plugins.nvim-tree")
 require("preetham.plugins.lualine")
 require("preetham.plugins.telescope")
 require("preetham.plugins.nvim-cmp")
+
+-- LSP plugins
+require("preetham.plugins.lsp.mason")
+require("preetham.plugins.lsp.lspsaga")
+require("preetham.plugins.lsp.lspconfig")
