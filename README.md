@@ -130,7 +130,7 @@ _Note: For your own customisation needs, refer to the official repos for the plu
 ## Git integration
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) – Show line modifications, i.e. additions or deletions, on the signing column.
 
-## Plugin additions
+## Plugin customisation
 If you want to install any new plugins for yourself, follow the pattern for as for all the other plugins:
 ```lua
 use([author]/[repo])
@@ -140,6 +140,7 @@ This obviously is the generic pattern. There may be some plugins where you may h
 _Note: since I'm using the [Warp](https://app.warp.dev/referral/NP9VKW) terminal, I'm not using any specific Neovim colourschemes. If you however want to, use the tutorial and its corresponding repo within the Credits section._
 
 # Keybindings
+All keybindings are defined in the [keymaps.lua](https://github.com/iArcanic/nvim/blob/main/lua/preetham/core/keymaps.lua) file.
 
 # Credits
 All credits go to this [tutorial](https://www.youtube.com/watch?v=vdn_pKJUda8&feature=youtu.be) and this [repository](https://github.com/josean-dev/dev-environment-files/tree/main/.config/nvim). Please do check out their other dev environment configuration files as well as their blog and Youtube channel.
