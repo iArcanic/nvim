@@ -14,3 +14,4 @@ require("preetham.plugins.nvim-cmp")
 
 -- LSP plugins
 require("preetham.plugins.lsp.mason")
+require("preetham.plugins.lsp.lspconfig")
