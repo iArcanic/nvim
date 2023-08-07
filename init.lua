@@ -13,6 +13,7 @@ require("preetham.plugins.telescope")
 require("preetham.plugins.nvim-cmp")
 require("preetham.plugins.treesitter")
 require("preetham.plugins.autopairs")
+require("preetham.plugins.gitsigns")
 
 -- LSP plugins
 require("preetham.plugins.lsp.mason")
